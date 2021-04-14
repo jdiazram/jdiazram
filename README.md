@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Jorge
 
+I’m a Assistant Professor at University Tarapaca, affiliated at Engineering and Technologys Department - Engineering School, and currently I’m Phd student in Engineering Sciences in the Computer Science area from @dccuc and @ialab_uc
+
+My current research field is Machine Learning and Deep Learning.
 <!--
 **jdiazram/jdiazram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
