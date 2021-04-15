@@ -5,10 +5,8 @@ I’m a Assistant Professor at University Tarapaca, affiliated at Engineering an
 My current research field is Machine Learning and Deep Learning.
 
 ### Elsewhere on the internet
-[![Twitter](https://image.flaticon.com/icons/png/128/733/733579.png)](https://twitter.com/jdiazram)
-[![LinkedIn](https://image.flaticon.com/icons/png/128/2111/2111499.png)](https://www.linkedin.com/in/jdiazram/)
-
 <a href="https://twitter.com/jdiazram"><img src="https://image.flaticon.com/icons/png/128/733/733579.png" align="left" height="48" width="48" ></a>
+<a href="https://www.linkedin.com/in/jdiazram/"><img src="https://image.flaticon.com/icons/png/128/2111/2111499.png" align="left" height="48" width="48" ></a>
 
 <!--
 **jdiazram/jdiazram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
