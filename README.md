@@ -6,7 +6,7 @@ My current research field is Machine Learning and Deep Learning.
 
 ### Elsewhere on the internet
 <a href="https://twitter.com/jdiazram" target="_blank"><img src="https://image.flaticon.com/icons/png/128/733/733579.png" align="left" height="48" width="48" ></a>
-<a href="https://www.linkedin.com/in/jdiazram/"><img src="https://image.flaticon.com/icons/png/128/2111/2111499.png" align="left" height="48" width="48" ></a>
+<a href="https://www.linkedin.com/in/jdiazram/" target="_blank"><img src="https://image.flaticon.com/icons/png/128/2111/2111499.png" align="left" height="48" width="48" ></a>
 
 <!--
 **jdiazram/jdiazram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
