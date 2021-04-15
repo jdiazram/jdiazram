@@ -5,7 +5,7 @@ I’m a Assistant Professor at University Tarapaca, affiliated at Engineering an
 My current research field is Machine Learning and Deep Learning.
 
 ### Elsewhere on the internet
-[![Twitter](https://image.flaticon.com/icons/png/128/733/733579.png = 250x250)](https://twitter.com/jdiazram)
+[![Twitter](https://image.flaticon.com/icons/png/128/733/733579.png {width=40px height=400px})](https://twitter.com/jdiazram)
 [![LinkedIn](https://image.flaticon.com/icons/png/128/2111/2111499.png)](https://www.linkedin.com/in/jdiazram/)
 
 <!--
