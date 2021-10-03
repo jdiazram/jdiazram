@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Jorge
 
-I’m a Assistant Professor at [University Tarapaca](https://www.uta.cl), affiliated at Engineering and Technologys Department - Engineering School, and currently I’m Phd student in Engineering Sciences in the Computer Science area from @dccuc and [ialab_uc](https://ialab.ing.puc.cl/)
+I’m a Assistant Professor at [University Tarapaca](https://www.uta.cl), affiliated at Engineering and Technologys Department - [Engineering School](https://www.uta.cl/index.php/portada-facultad-de-ingenieria/), and currently I’m Phd student in Engineering Sciences in the Computer Science area from @dccuc and [ialab_uc](https://ialab.ing.puc.cl/)
 
 My current research field are Machine Learning and Deep Learning.
 
